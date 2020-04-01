@@ -1,5 +1,5 @@
 # WordsSeeker
-A console program used for counting and searching word in one article
+这是一个数据结构课程设计，用到了KMP算法。
 
 
 >>>处理英文单词
